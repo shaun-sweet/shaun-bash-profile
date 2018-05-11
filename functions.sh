@@ -1,6 +1,6 @@
 #!/bin/bash
-testing () {
-    echo "test works!!!!";
+testinstall () {
+    echo "Bash profile installed successfully!";
 }
 
 reload () {
